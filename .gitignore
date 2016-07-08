@@ -1,5 +1,6 @@
 # Custom
 /src/.idea/*
+/src/downlaods/*
 /res/*
 
 # Byte-compiled / optimized / DLL files
